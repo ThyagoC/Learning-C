@@ -1,0 +1,7 @@
+#ignorar arquivos compilados
+*.exe
+*.o
+*.pdf
+
+Lista\ 02/
+Lista\ 03/
